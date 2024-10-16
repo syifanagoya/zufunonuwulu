@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zufunonuwulu.pages.dev/sitemap.xml
